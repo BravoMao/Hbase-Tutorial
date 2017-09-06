@@ -3,7 +3,7 @@ A simple hbase tutorial
 
 Pull a exist docker hbase image
 ----------
-   $ docker pull dajobe/hbase
+    $ docker pull dajobe/hbase
 
 Run docker image
 ----------
@@ -14,4 +14,4 @@ To run HBase by hand:
 
 Start docker container
 ----------
-docker start hbase-docker
+    $ docker start hbase-docker
