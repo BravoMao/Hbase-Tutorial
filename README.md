@@ -5,7 +5,7 @@ Docker install
 ----------
 https://docs.docker.com/docker-for-mac/install/
 
-Pull a exist docker hbase image
+Pull an exist docker hbase image
 ----------
     $ docker pull dajobe/hbase
 
